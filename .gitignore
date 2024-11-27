@@ -2,3 +2,4 @@ dist/
 .venv/
 .pytest_cache/
 .idea/
+tests/__pycache__/
